@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="src_description">Description:</string>
+    <string name="str_code">Code:</string>
+    <string name="str_price">Price:</string>
+    <string name="str_save">SAVE</string>
+</resources>
